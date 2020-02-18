@@ -17,3 +17,9 @@ In this workshop you will be introduced to:
 - Download [Ardunio IDE](https://www.arduino.cc/en/Main/Software)
 - Sign up to [TinkerCAD](https://www.tinkercad.com/)
 
+## Credits:
+- Slides [Theodore Harki](https://github.com/Theod0re)
+
+## Contributors:
+- [Omar Hamza](https://github.com/omarmhamza)
+- [Mahmoud Matar](https://github.com/mahmoud451)
