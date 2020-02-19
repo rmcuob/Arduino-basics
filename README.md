@@ -55,7 +55,7 @@ In this workshop you will be introduced to:
         
       Returns
         Nothing
-## Communication
+### Communication
 
 - Setup Serial:
 
@@ -78,7 +78,7 @@ In this workshop you will be introduced to:
       Returns
         println() returns the number of bytes written, though reading that number is optional. Data type: size_t.
 
-## Advanced I/O
+### Advanced I/O
 - tone:
 
         Description:
